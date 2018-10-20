@@ -16,4 +16,4 @@
 - [x] Further customize and style the card
 - [x] Add a button that will toggle hiding and showing the answer choices
 
-<img src="https://gph.is/2yNWroa" width="200" height="400" /> 
+<img src="https://media.giphy.com/media/28B7BP6UV3yIrIZwwH/giphy.gif" width="200" height="400" /> 
